@@ -14,5 +14,3 @@ Program menggunakan Ant Colony Optimization dengan pembatasan bahwa node yang te
 - Titik Awal: H
 - Titik Akhir: D
 - Titik Wajib Dilewati: #
-
-# Rumus probabilitas ACO
